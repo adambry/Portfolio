@@ -10,8 +10,8 @@
 
 ---
 
-- Pós-Graduação, Programa Avançado em Data Science e decisão '|' Insper Instituto de Ensino e Pesquisa (*Cursando* '|' *Dezembro 2024*)
-- Graduação, Engenharia Mecatrônica '|' Insper Instituto de Ensino e Pesquisa (*Agosto 2023*)
+- Pós-Graduação, Programa Avançado em Data Science e decisão \| Insper Instituto de Ensino e Pesquisa (*Cursando* \| *Dezembro 2024*)
+- Graduação, Engenharia Mecatrônica \| Insper Instituto de Ensino e Pesquisa (*Agosto 2023*)
   
 ---
 
