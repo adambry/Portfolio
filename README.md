@@ -31,10 +31,12 @@
 
 **Descrição**: Para esse projeto, foi utilizado a base de dados de empresas (anonimizados) européias do ano de 2005 a 2016, fornecido pela empresa Bisnode. Nessa base, há dados contábeis, boarding, geográficos, datas e dados corporativos gerais. O objetivo do projeto é de prever se uma empresa irá fechar no período de 2 anos e com isso construir um modelo de Machine Learning para predizer se uma empresa vai fechar ou não. A limpeza e manipulação dos dados foi realizado em Python e a criação dos modelos de Machine Learning foi feito em R.
 
-[Limpeza e manipulação dos dados (Jupyter Notebook)](https://adambry.github.io/portfolio/files/Prev_falencia_limpeza.html) \n
+[Limpeza e manipulação dos dados (Jupyter Notebook)](https://adambry.github.io/portfolio/files/Prev_falencia_limpeza.html) \|
 [Criação dos modelos de Machine Learning (R)](https://adambry.github.io/portfolio/files/Prev_falencia_ML.html)
 
 ### - Piloto mais rápido de Le Mans (Python)
+
+#### Autor: André Dambry (adambry)
 
 **Descrição**: As 24 horas de Le Mans é um dos eventos mais famosos do automobilismo, onde quatro categorias diferentes correm na pista simultâneamente. Esse projeto tem o objetivo de encontrar o piloto mais rápido de cada categoria no evento de 2022, utilizando a biblioteca de visualização matplotlib para demonstrar os resultados de maneira intuitiva e clara
 
