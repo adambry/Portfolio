@@ -31,7 +31,7 @@
 
 **Descrição**: Para esse projeto, foi utilizado a base de dados de empresas (anonimizados) européias do ano de 2005 a 2016, fornecido pela empresa Bisnode. Nessa base, há dados contábeis, boarding, geográficos, datas e dados corporativos gerais. O objetivo do projeto é de prever se uma empresa irá fechar no período de 2 anos e com isso construir um modelo de Machine Learning para predizer se uma empresa vai fechar ou não. A limpeza e manipulação dos dados foi realizado em Python e a criação dos modelos de Machine Learning foi feito em R.
 
-[Limpeza e manipulação dos dados (Jupyter Notebook)](https://adambry.github.io/portfolio/files/Prev_falencia_limpeza.html)
+[Limpeza e manipulação dos dados (Jupyter Notebook)](https://adambry.github.io/portfolio/files/Prev_falencia_limpeza.html) \n
 [Criação dos modelos de Machine Learning (R)](https://adambry.github.io/portfolio/files/Prev_falencia_ML.html)
 
 ### - Piloto mais rápido de Le Mans (Python)
