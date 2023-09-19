@@ -23,7 +23,9 @@ Autor: André Dambry (adambry)
 
 Descrição: O objetivo do projeto é de analisar o mercado automotivo brasileiro para determinar qual seria o carro mais rentável para a revenda. Para isso foi criado um algoritmo de Web Scrapping, utilizando a biblioteca Selenium para adquirir dados de anúncios do site KAVAK. Com isso, os dados foram armazenados em um dataframe, utilizando a biblioteca pandas, onde foram tratados para realizar a análise dos anúncios.
 
-[Visualizar HTML formatado](https://github.com/adambry/portfolio/blob/main/assets/files/Projeto_revenda_carros.html){:target="_blank"}
+[Visualizar HTML formatado](assets/files/Projeto_revenda_carros.html){: .btn .btn-blue }
+
+<iframe src="assets/files/Projeto_revenda_carros.html" style="width:100%; height:500px;"></iframe>
 
 [Arquivo em Jupyter Notebook](https://github.com/adambry/portfolio/blob/7ddfb1427fb76b4243d5a8b762a1743c3fd0c110/assets/files/Projeto_revenda_carros.ipynb)
 
